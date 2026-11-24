@@ -1,4 +1,4 @@
-a.out
-*.exe
-*.o
-*.out
+bill_calculator
+calculator
+menu
+hello_world
