@@ -1,6 +1,0 @@
-bill_calculator
-calculator
-menu
-hello_world
-school_cal
-pointers
